@@ -1,0 +1,21 @@
+# Prodej bytu, 2+kk, 64 m²
+
+> V novém developerském projektu Rezidence Kristian nabízíme prodej, moderního a nízkoenergetického bydlení v bytu 2+kk s balkónem a vnitřním parkovacím stáním ve vyhledávané lokalitě v Hradci Králové – Moravské Předměstí. Bytová jednotka se nachází v 5. NP zděného bytového domu, celková užitná plocha 64,2 m2, balkón 6,5 m2, šatna 3,6 m2. Dispozice: vstupní chodba, obývací pokoj s kuchyňským koutem,
+
+## Fakta
+- Typ: Byty
+- Druh nabídky: Prodej
+- Dispozice: 2+kk
+- Plocha: 64 m²
+- Podlaží: 5
+- Stav: ve výstavbě (hrubá stavba)
+- Vlastnictví: osobní
+- Energetická náročnost: B
+- Lokalita: Pod Zámečkem, Hradec Králové, Královéhradecký kraj
+- Cena: 7 724 000 Kč
+
+## Kontakt
+- Makléř: Jakub Janiš
+- Telefon: +420774289077
+- Kancelář: FORTUNAE s.r.o.
+- Web kanceláře: http://www.fortunae.cz
