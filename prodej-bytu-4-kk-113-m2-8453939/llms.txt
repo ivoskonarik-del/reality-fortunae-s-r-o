@@ -1,0 +1,21 @@
+# Prodej bytu, 4+kk, 113 m²
+
+> V novém developerském projektu rezidence Kristian Vám nabízíme prodej, moderního a nízkoenergetického bydlení v bytu 4+kk s balkónem ve vyhledávané lokalitě v Hradci Králové – Moravské Předměstí. Bytová jednotka se nachází v 5. NP zděného bytového domu, celková užitná plocha 113,3 m2, 2 x balkón (5,7 m2 a 4 m2), 1x šatna (4,6 m2). K bytu náleží 1x vnitřní parkovací stání. Dispozice: vstupní chodba
+
+## Fakta
+- Typ: Byty
+- Druh nabídky: Prodej
+- Dispozice: 4+kk
+- Plocha: 113 m²
+- Podlaží: 5
+- Stav: ve výstavbě (hrubá stavba)
+- Vlastnictví: osobní
+- Energetická náročnost: B
+- Lokalita: Pod Zámečkem, Hradec Králové, Královéhradecký kraj
+- Cena: 12 544 000 Kč
+
+## Kontakt
+- Makléř: Jakub Janiš
+- Telefon: +420774289077
+- Kancelář: FORTUNAE s.r.o.
+- Web kanceláře: http://www.fortunae.cz

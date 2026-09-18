@@ -1,0 +1,21 @@
+# Prodej bytu, 1+kk, 30 m²
+
+> V novém developerském projektu Rezidence Kristian nabízíme prodej, moderního a nízkoenergetického bydlení v bytu 1+kk s balkónem ve vyhledávané lokalitě v Hradci Králové – Moravské Předměstí. Bytová jednotka se nachází ve 4. NP zděného bytového domu, celková užitná plocha 30,2 m2, balkón 2,7 m2. Dispozice: vstupní chodba, obývací pokoj s kuchyňským koutem, koupelna s WC, balkón. Vytápění: ústřední
+
+## Fakta
+- Typ: Byty
+- Druh nabídky: Prodej
+- Dispozice: 1+kk
+- Plocha: 28 m²
+- Podlaží: 4
+- Stav: novostavba
+- Vlastnictví: osobní
+- Energetická náročnost: B
+- Lokalita: Pod Zámečkem, Hradec Králové, Královéhradecký kraj
+- Cena: 4 227 300 Kč
+
+## Kontakt
+- Makléř: Jakub Janiš
+- Telefon: +420774289077
+- Kancelář: FORTUNAE s.r.o.
+- Web kanceláře: http://www.fortunae.cz
